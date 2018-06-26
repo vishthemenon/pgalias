@@ -1,6 +1,6 @@
-# Gitalias
+# PG-Alias
 
-**Gitalias** presents several shortcuts for common git commands.
+**PG-Alias** contains a bunch of shell shorthands for common Postgres commands
 
 ## Install
 
